@@ -12,4 +12,12 @@ description: This is meta description
 
 [Discord](https://discord.gg/KTAszBQEuJ)
 
+[Anchor](https://anchor.fm/CryptoCurrencyChat/)
+
+[Twitter](https://twitter.com/C3MEDIA2)
+
+Dtube
+
+[https://anchor.fm/CryptoCurrencyChat/](https://anchor.fm/CryptoCurrencyChat/ "https://anchor.fm/CryptoCurrencyChat/")
+
 </center>
