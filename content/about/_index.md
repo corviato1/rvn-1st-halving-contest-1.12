@@ -1,6 +1,6 @@
 ---
 title: Ravencoin Halving Sticker Contest
-description: This is meta description
+description: Ravencoin Halving Sticker Contest
 
 ---
 # **Info about the sticker contest:**
