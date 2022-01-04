@@ -6,7 +6,7 @@ description: This is meta description
 ---
 Youtube
 
-<center>[Youtube](https://www.youtube.com/channel/UCUEjkmomqDdob42kGcLzvOA)</center>
+<center>Youtube</center>
 
 Dtube
 
