@@ -4,7 +4,9 @@ bg_image: images/2020-landscape-2.png
 description: This is meta description
 
 ---
-[Youtube](https://www.youtube.com/channel/UCUEjkmomqDdob42kGcLzvOA)
+Youtube
+
+<center>[Youtube](https://www.youtube.com/channel/UCUEjkmomqDdob42kGcLzvOA)</center>
 
 Dtube
 
