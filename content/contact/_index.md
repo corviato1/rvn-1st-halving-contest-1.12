@@ -8,6 +8,8 @@ description: This is meta description
 
 [Youtube](https://www.youtube.com/channel/UCUEjkmomqDdob42kGcLzvOA)
 
-[https://odysee.com/@C3MEDIA:3](https://odysee.com/@C3MEDIA:3 "https://odysee.com/@C3MEDIA:3")
+[Odysee](https://odysee.com/@C3MEDIA:3)
+
+[Discord](https://discord.gg/KTAszBQEuJ)
 
 </center>
