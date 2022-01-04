@@ -13,3 +13,9 @@ Dtube
 <a href="[https://www.w3schools.com/](https://www.w3schools.com/ "https://www.w3schools.com/")" target="_blank">Visit W3Schools!</a>
 
 Oddesyy
+
+    <style>
+    p {
+     text-align:center
+    }
+    </style>
