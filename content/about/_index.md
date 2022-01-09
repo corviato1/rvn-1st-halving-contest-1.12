@@ -1,5 +1,5 @@
 ---
-title: Ravencoin Halving Sticker Contest
+title: About
 description: Ravencoin Halving Sticker Contest
 
 ---
