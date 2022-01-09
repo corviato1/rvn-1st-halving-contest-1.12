@@ -6,7 +6,7 @@ description = "LINK"
 draft = true
 image = "/images/group-1.jpg"
 tags = []
-title = "RXXXXXXXXXX-(copy)-(copy)"
+title = "RVN Address Pending"
 
 +++
 <center>
