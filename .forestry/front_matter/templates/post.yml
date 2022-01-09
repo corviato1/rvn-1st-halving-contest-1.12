@@ -9,6 +9,7 @@ fields:
   name: image
   label: image
 pages:
+- content/blog/rvn-address-pending-copy-1.md
 - content/blog/rvn-address-pending-copy.md
 - content/blog/rxxxxxxxxxx-copy-copy.md
 - content/blog/rxxxxxxxxxx-copy.md
