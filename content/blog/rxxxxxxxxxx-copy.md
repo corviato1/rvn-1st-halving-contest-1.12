@@ -3,8 +3,7 @@ author = []
 categories = []
 date = ""
 description = "LINK"
-draft = true
-image = "/images/2020-three-quarters-4.png"
+image = "/images/group-1.jpg"
 tags = []
 title = "RXXXXXXXXXX-(copy)"
 
