@@ -8,6 +8,6 @@ description: This is meta description
 
 [Discord](https://discord.gg/KTAszBQEuJ)
 
-[Twitter](https://twitter.com/C3MEDIA2)
+[Twitter](https://twitter.com/C3MEDIA2/status/1469565795411787776)
 
 </center>
