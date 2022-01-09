@@ -5,7 +5,7 @@ date = ""
 description = "LINK"
 image = "/images/group-1.jpg"
 tags = []
-title = "RXXXXXXXXXX-(copy)"
+title = "RVN Address Pending"
 
 +++
 <center>
