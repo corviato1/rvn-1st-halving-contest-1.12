@@ -8,4 +8,8 @@ tags = []
 title = "RXXXXXXXXXX-(copy)"
 
 +++
+<center>
+
 EXPLORER LINK
+
+</center>
