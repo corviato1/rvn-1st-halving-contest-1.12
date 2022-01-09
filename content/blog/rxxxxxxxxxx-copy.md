@@ -3,7 +3,7 @@ author = []
 categories = []
 date = ""
 description = "LINK"
-image = "/images/group-1.jpg"
+image = "/images/pic3.png"
 tags = []
 title = "RVN Address Pending"
 
